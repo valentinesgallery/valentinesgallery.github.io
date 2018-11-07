@@ -1,9 +1,3 @@
-/*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 
 
 
@@ -1300,16 +1294,6 @@ address {
 
 .copyright p {
 	line-height: 25px;
-}
-
-.copyright a {
-	font-family: 'Montserrat', sans-serif;
-	color: #FFF;
-	font-weight: 600;
-}
-
-.copyright a:hover {
-	color: #009688;
 }
 
 a.to-top {
