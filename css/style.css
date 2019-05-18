@@ -479,9 +479,10 @@ section.cd-section {
 
 .agileaboutaitsabout {
 	padding: 100px 0;
+	background-color: #020202;
 	/*--w3layouts--*/
 	/*--agileits--*/
-	background-color: #333;
+	/*background-color: #333;*/
 }
 
 .agileaboutaits-info {
