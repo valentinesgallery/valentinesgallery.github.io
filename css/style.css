@@ -478,8 +478,15 @@ section.cd-section {
 /*-- About --*/
 
 .agileaboutaitsabout {
-	padding: 100px 0;
-	background-color: #020202;
+	/*padding: 100px 0;*/
+	/*background-color: #020202;*/
+	background-image: url("../images/valentinesGallery_BG.jpg");
+	height: 100%;
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 	/*--w3layouts--*/
 	/*--agileits--*/
 	/*background-color: #333;*/
